@@ -2,7 +2,8 @@
   "name": "snowpack-plugin-raw",
   "version": "1.0.0",
   "description": "snowpack-plugin-raw",
-  "main": "index.js",
+  "main": "plugin.js",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
