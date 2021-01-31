@@ -1,0 +1,23 @@
+{
+  "name": "snowpack-plugin-raw",
+  "version": "1.0.0",
+  "description": "snowpack-plugin-raw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbdyzj/snowpack-plugin-raw.git"
+  },
+  "keywords": [
+    "snowpack",
+    "snowpack-plugin"
+  ],
+  "author": "Cbdy <cbdyzj@jianzhao.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbdyzj/snowpack-plugin-raw/issues"
+  },
+  "homepage": "https://github.com/cbdyzj/snowpack-plugin-raw#readme"
+}
